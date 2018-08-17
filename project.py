@@ -1,4 +1,4 @@
-#Write a script to search any file extension in your laptop. (1 Student)
+#Write a script to search any file extension in your laptop. 
 #For example: if I give query as &quot;png&quot;, your program should list all png image files
 #that are in your system.
 
